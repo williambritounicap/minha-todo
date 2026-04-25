@@ -29,14 +29,14 @@ Este projeto foi criado como parte da atividade de React com Vite.
 ## Publicação
 
 1. Crie um repositório no GitHub e envie o projeto com:
-   - `git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git`
-   - `git push -u origin main`
-2. Acesse https://vercel.com/ e faça login.
-3. Clique em "New Project" e importe o repositório do GitHub.
+   - `git remote add origin https://github.com/williambritounicap/minha-todo.git`
+   - `git push -u origin master`
+2. Acesse https://render.com/ e faça login.
+3. Clique em "New" → "Web Service" e importe o repositório do GitHub.
 4. Use as configurações padrão para um app React/Vite.
-5. O site ficará disponível em algo como `https://nome-do-projeto.vercel.app`.
+5. O site ficará disponível em algo como `https://minha-todo.onrender.com`.
 
 ## Links esperados
 
-- Repositório GitHub: `https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO`
-- Site Vercel: `https://nome-do-projeto.vercel.app`
+- Repositório GitHub: `https://github.com/williambritounicap/minha-todo`
+- Site OnRender: `https://minha-todo.onrender.com`
